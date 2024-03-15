@@ -1,0 +1,29 @@
+/*.background{
+    background-image: url("imge/bainary.jpg");
+    background-repeat: no-repeat;
+    background-position: top;
+    background-attachment: scroll;
+    background-size: 700px;
+    backface-visibility:visible;
+    width: 1000px;
+    height: 1000px;
+}*/
+/*h1{
+font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-weight: 700;
+
+}*/
+p{
+    color: blue;
+    line-height: 4;
+    font-weight: 300;
+    text-indent: 400px;
+    word-spacing: 1.5;
+}
+h1{
+    text-size-adjust: ;
+    text-transform: uppercase;
+    text-decoration: underline;
+    text-shadow: 4px 4px 3px gold;
+    text-align: center;
+}
